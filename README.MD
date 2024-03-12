@@ -23,3 +23,9 @@ Diseño de Videojuegos
 Hector Guerrero
 # Una breve descripción de lo que estoy aprendiendo en dicha matería.
 Estamos aprendiendo como hacer documentacion para juegos, teoria de juego y como pulir una idea.
+# Nombre de la materia.
+Principios de Composición y Diseño
+# Nombre del docente.
+Roberto Melo
+# Una breve descripción de lo que estoy aprendiendo en dicha matería.
+Estamos aprendiendo a como usar photoshop y ademas las bases del diseño y diseño grafico
